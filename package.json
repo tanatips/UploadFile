@@ -1,0 +1,17 @@
+{
+  "name": "uploadfile",
+  "version": "1.0.0",
+  "description": "upload file",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tanatips",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "jquery": "^3.4.1"
+  }
+}
